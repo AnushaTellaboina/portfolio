@@ -1,0 +1,14 @@
+.insta {
+  font-size: 60px;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+}
+
+.ft-para {
+  text-align: center;
+  margin-top: 32px;
+}

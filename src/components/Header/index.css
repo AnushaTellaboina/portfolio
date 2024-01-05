@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.ul-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  width: 1440px;
+  height: 56px;
+  padding: 12px, 120px, 12px, 120px;
+  gap: 760px;
+}
+
+.second-part {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.heading {
+  font-family: Playfair Display;
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.text-container {
+  width: 486px;
+  height: 154px;
+}
+
+.yellow-btn {
+  width: 115px;
+  height: 43px;
+  background: #fdc435;
+  border-width: 0px;
+  border-radius: 8px;
+  margin-right: 12px;
+}
+
+.special {
+  color: #fdc435;
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.white-btn {
+  width: 115px;
+  height: 43px;
+  background: white;
+
+  border-radius: 8px;
+}
+
+.girl {
+  width: 500px;
+  height: 600px;
+}
+
+.below-part {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /* align-items: center; */
+  width: Fixed (486px);
+  height: Hug (408px);
+  top: 111px;
+  left: 120px;
+  gap: 12px;
+}
